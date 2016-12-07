@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     //纯代码初始化
-    LPLevelView *lView = [LPLevelView new];
+    LPLevelView *lView = [[LPLevelView alloc] init];
     lView.frame = CGRectMake(145, 150, levelView.frame.size.width, levelView.frame.size.height);
     lView.iconColor = [UIColor orangeColor];
     lView.iconSize = CGSizeMake(20, 20);
