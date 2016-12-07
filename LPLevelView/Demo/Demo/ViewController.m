@@ -2,9 +2,6 @@
 //  Created by iOS_Liu on 16/2/3.
 //  Copyright © 2016年 iOS_Liu. All rights reserved.
 //
-//  作者GitHub主页 https://github.com/SwiftLiu
-//  作者邮箱 1062014109@qq.com
-//  下载链接 https://github.com/SwiftLiu/LPLevelView.git
 
 #import "ViewController.h"
 #import "LPLevelView.h"
@@ -46,6 +43,3 @@
 }
 
 @end
-// 版权属于原作者
-// http://code4app.com (cn) http://code4app.net (en)
-// 发布代码于最专业的源码分享网站: Code4App.com
